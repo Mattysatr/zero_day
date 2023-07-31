@@ -1,4 +1,3 @@
-# My Project
+# My Zero Day Project
 
-## Features
-New project
+This is my first project using Markdown.
